@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.advertisement {
+    background-color: #008CBA;
+    color: white;
+    text-align: center;
+    padding: 50px 20px;
+}
+
+.advertisement h1 {
+    font-size: 36px;
+    margin: 0;
+}
+
+.advertisement p {
+    font-size: 18px;
+    margin: 20px 0;
+}
+
+.cta-button {
+    background-color: #ff6f61;
+    color: white;
+    padding: 15px 30px;
+    text-decoration: none;
+    font-size: 18px;
+    border-radius: 5px;
+}
+
+.cta-button:hover {
+    background-color: #e85a47;
+}
